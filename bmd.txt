@@ -1,0 +1,4 @@
+*.telegram.org
+o1098464.ingest.sentry.io
+*.jd.com
+webpush.wx2.qq.com
